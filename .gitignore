@@ -1,0 +1,12 @@
+# .NET Build Results
+bin/
+obj/
+
+# User-specific files
+.idea/
+.vscode/
+
+# ASP.NET Core & Visual Studio
+.vs/
+.vs2019/
+.vs2017/
